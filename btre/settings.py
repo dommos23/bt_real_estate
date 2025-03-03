@@ -33,7 +33,7 @@ SECRET_KEY = SECRET_KEY
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://btrealestate-production-26f1.up.railway.app/']
+ALLOWED_HOSTS = ['btrealestate-production-26f1.up.railway.app/']
 
 # Application definition
 
